@@ -1,4 +1,13 @@
 // temporary place holder
 body {
-	background: #000;
+  background-color: #E066FF;
+}
+
+.jumbotron {
+  margin-top: 20px;
+}
+
+.container {
+  height: 1000px;
+  padding-bottom: 100px;
 }
